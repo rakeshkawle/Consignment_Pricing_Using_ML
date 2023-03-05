@@ -17,7 +17,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-name='conssingments_price',
+name='consingments_price',
 version='0.0.1',
 author='rakesh',
 author_email='kawlerakesh@gmail.com',
